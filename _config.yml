@@ -1,3 +1,4 @@
 remote_theme: pages-themes/hacker@v0.2.0
+title: "𝙴𝚈𝙴𝚂𝚆𝙸𝙳𝙴𝙾𝙿𝙴𝙽"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
