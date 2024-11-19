@@ -1,12 +1,8 @@
-<!DOCTYPE html>
+---
+title-heading: false
+---
+
 <html>
-<head>
-<style>
-header {
-  display: none;
-  }  
-</style>
-</head>
 <body>
 
 <h1>ꪮρꫀꪀ ꪗꪮꪊ᥅ ꫀꪗꫀᦓ - ᴊᴍ</h1>
