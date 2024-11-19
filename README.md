@@ -1,6 +1,8 @@
+<style>
 header {
   display: none;
-}
+}  
+</style>
 
 <h1>ꪮρꫀꪀ ꪗꪮꪊ᥅ ꫀꪗꫀᦓ - ᴊᴍ</h1>
 
